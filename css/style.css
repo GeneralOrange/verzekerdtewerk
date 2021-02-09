@@ -26,14 +26,37 @@ html {
     height: 100%;
     opacity: .5;
     background-color: black;
+    filter: blur(5px);
     
 }
 
 .mainContent__inner {
     width: 800px;
-    height: 500px;
+    height: auto;
     background-color: white;
     padding: 20px;
     border-radius: 10px;
     z-index: 1;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.09);
+}
+
+.mainContent__inner h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+/* form */
+
+.asterisk {
+    color: red;
+}
+
+input[type="submit"]{
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+    width: 100%;
 }
