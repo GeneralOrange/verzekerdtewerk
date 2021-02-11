@@ -29,7 +29,7 @@
                             <div class="col-12 col-lg-6">
                                 <div class="mb-3">
                                     <label for="mce-MMERGE2" class="form-label">Klant / Aannemer  <span class="asterisk">*</span></label>
-                                    <select name="MMERGE2" class="required form-select" id="mce-MMERGE2">
+                                    <select name="MMERGE2" class="required form-select js-selector js-forminput" id="mce-MMERGE2">
                                         <option value=""></option>
                                         <option value="Ik wil een klus plaatsen">Ik wil een klus plaatsen</option>
                                         <option value="Ik wil klussen">Ik wil klussen</option>
@@ -39,40 +39,30 @@
                             <div class="col-12 col-lg-6">
                                 <div class="mb-3">
                                     <label for="mce-EMAIL" class="form-label">Email  <span class="asterisk">*</span></label>
-                                    <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">
+                                    <input type="email" value="" name="EMAIL" class="required email form-control js-forminput" id="mce-EMAIL">
                                 </div>
                             </div>
                             
                             <div class="col-12 col-lg-6">
                                 <div class="mb-3">
                                     <label for="mce-FNAME" class="form-label">Naam  <span class="asterisk">*</span></label>
-                                    <input type="text" value="" name="FNAME" class="required form-control" id="mce-FNAME">
+                                    <input type="text" value="" name="FNAME" class="required form-control js-forminput" id="mce-FNAME">
                                 </div>
                             </div>
                             <div class="col-12 col-lg-6">
                                 <div class="mb-3">
-                                    <label for="mce-MMERGE3" class="form-label">Adres </label>
-                                    <input type="text" value="" name="MMERGE3" class="form-control" id="mce-MMERGE3">
+                                    <label for="mce-MMERGE3" class="form-label">Adres / Plaatsnaam</label>
+                                    <input type="text" value="" name="MMERGE3" class="form-control js-forminput" id="mce-MMERGE3">
                                 </div>
                             </div>
                             <div class="col-12 col-lg-6">
                                 <div class="mb-3">
                                     <label for="mce-PHONE" class="form-label">Telefoon </label>
-                                    <input type="number" name="PHONE" class="form-control" value="" id="mce-PHONE">
+                                    <input type="number" name="PHONE" class="form-control js-forminput" value="" id="mce-PHONE">
                                 </div>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <div class="mb-3">
-                                    <div class="form-check">
-                                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" required>
-                                        <label class="form-check-label" for="flexCheckDefault">
-                                            Ik ga akkoord met de <a href="./assets/documents/Algemene_voorwaarden_opdrachtgever.docx">algemene voorwaarden</a><span class="asterisk">*</span>
-                                        </label>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-lg-6">
-                                <div class="indicates-required">
+                                <div class="indicates-required mb-3">
                                     <span class="asterisk">*</span> is verplicht
                                 </div>
                             </div>
@@ -86,18 +76,50 @@
                             </div>
 
                             <div class="col-12">
+                                <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                                    <div class="content__gdpr alert alert-primary js-permissions">
+                                        <label>Marketing Permissies <span class="asterisk">*</span></label>
+                                        <p>Gelieve de te wensen methodes selecteren hoe u in contact wilt blijven met Verzekerdtewerk.nl :</p>
+                                        <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                                            <div class="mb-3">
+                                                <div class="form-check">
+                                                    <input type="checkbox" id="gdpr_52177" name="gdpr[52177]" value="Y" class="av-checkbox gdpr">
+                                                    <label class="checkbox subfield" for="gdpr_52177">
+                                                        Email
+                                                    </label>
+                                                </div>
+                                                <div class="form-check">
+                                                    <input type="checkbox" id="gdpr_52205" name="gdpr[52205]" value="Y" class="av-checkbox gdpr">
+                                                    <label class="checkbox subfield" for="gdpr_52205">
+                                                        Telefoon
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <p>U kunt zich op elk moment uitschrijven van Verzekerdtewerk.nl door op de link in de footer van onze emails te klikken.</p>
+                                        <div class="content__gdprLegal">
+                                            <p>Wij gebruiken Mailchimp als marketing platform. Door op de knop "Meld je aan!" te klikken, erkent u dat de informatie naar Mailchimp wordt gestuurd om te verwerken. <a rel="nofollow" href="https://mailchimp.com/legal/" target="_blank">Lees meer over Mailchimp's privacy praktijken hier.</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="terms js-terms js-toggle-opdrachtgever alert alert-primary">Door als opdrachtgever op de knop "Meld je aan!" te klikken, gaat u akkoord met onze <a href="./assets/documents/Algemene_voorwaarden_opdrachtgever.pdf">algemene voorwaarden</a></div>
+                                    <div class="terms js-terms js-toggle-specialist alert alert-primary">Door als specialist op de knop "Meld je aan!" te klikken, gaat u akkoord met onze <a href="./assets/documents/Algemene_voorwaarden_Specialist.pdf">algemene voorwaarden</a></div>
+                                </div>
+                            </div>
+
+                            <div class="col-12">
                                 <div class="clear">
-                                    <input type="submit" value="Meldt aan!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">
+                                    <input type="submit" value="Meld je aan!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </form>
             </div>
-            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE2';ftypes[2]='dropdown';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='PHONE';ftypes[4]='number';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+            <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE2';ftypes[2]='dropdown';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='PHONE';ftypes[4]='number';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
             <!--End mc_embed_signup-->
 
-
+            <script type='text/javascript' src='./js/app.js'></script>
         </div>
     </section>
    

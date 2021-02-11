@@ -6,7 +6,7 @@ html {
 }
 
 .mainContent {
-    height: 100vh;
+    min-height: 100vh;
     background-image: url(../assets/images/renovate.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -31,14 +31,22 @@ html {
 }
 
 .mainContent__inner {
-    width: 800px;
+    width: 1000px;
+    max-width: 100%;
     height: auto;
-    background-color: white;
+    background-color: rgba(255,255,255, .9);
     padding: 20px;
+    margin: 25px;
     border-radius: 10px;
     z-index: 1;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.09);
 }
+
+/* @media screen and (min-width: 768px){
+    .mainContent__inner {
+        background-color: white;
+    }
+} */
 
 .mainContent__inner h1 {
     text-transform: uppercase;
@@ -59,4 +67,14 @@ input[type="submit"]{
     text-transform: uppercase;
     display: block;
     width: 100%;
+}
+
+.js-terms,
+.js-permissions {
+    display: none;
+}
+
+.js-terms--active,
+.js-permissions--active {
+    display: block;
 }
