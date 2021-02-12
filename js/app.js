@@ -23,19 +23,37 @@
     }
 
     function handleInput(e){
-        let construct = {
-            el: e.target.id,
-            val: e.target.value
-        }
-        construct_arr.push(construct);
+        let arrayCheck = [];
+        const permissions = document.querySelector('.js-permissions');
+
+        forminputs.forEach(input => {
+            const inputObj = {
+                id: input.id,
+                value: input.value
+            }
+
+            arrayCheck.push(inputObj);
+        });
+
+        
+
+        arrayCheck.forEach(check => {
+            if(check.value === ''){
+                permissions.classList.add('js-permissions--active');
+            } else {
+                permissions.classList.remove('js-permissions--active');
+            }
+        });
+
+        
+
+        
     }
 
     const termsAndConditions = document.querySelectorAll('.js-terms');
     const forminputs = document.querySelectorAll('.js-forminput');
 
     selector.addEventListener('change', handleToggler);
-
-    let construct_arr = [];
 
     forminputs.forEach(input => {
         input.addEventListener('change', handleInput);
