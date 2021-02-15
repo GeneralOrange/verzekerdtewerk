@@ -101,8 +101,8 @@
                                             <p>Wij gebruiken Mailchimp als marketing platform. Door op de knop "Meld je aan!" te klikken, erkent u dat de informatie naar Mailchimp wordt gestuurd om te verwerken. <a rel="nofollow" href="https://mailchimp.com/legal/" target="_blank">Lees meer over Mailchimp's privacy praktijken hier.</a></p>
                                         </div>
                                     </div>
-                                    <div class="terms js-terms js-toggle-opdrachtgever alert alert-primary">Door als opdrachtgever op de knop "Meld je aan!" te klikken, gaat u akkoord met onze <a href="./assets/documents/Algemene_voorwaarden_opdrachtgever.pdf">algemene voorwaarden</a></div>
-                                    <div class="terms js-terms js-toggle-specialist alert alert-primary">Door als specialist op de knop "Meld je aan!" te klikken, gaat u akkoord met onze <a href="./assets/documents/Algemene_voorwaarden_Specialist.pdf">algemene voorwaarden</a></div>
+                                    <div class="terms js-terms js-toggle-opdrachtgever alert alert-primary">Door als opdrachtgever op de knop "Meld je aan!" te klikken, bevestigd u dat u 18 jaar of ouder bent en gaat u akkoord met onze <a target="_blank" href="./assets/documents/Algemene_voorwaarden_opdrachtgever.pdf">algemene voorwaarden</a></div>
+                                    <div class="terms js-terms js-toggle-specialist alert alert-primary">Door als specialist op de knop "Meld je aan!" te klikken, bevestigd u dat u 18 jaar of ouder bent en gaat u akkoord met onze <a target="_blank" href="./assets/documents/Algemene_voorwaarden_Specialist.pdf">algemene voorwaarden</a></div>
                                 </div>
                             </div>
 
@@ -115,13 +115,56 @@
                     </div>
                 </form>
             </div>
-            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-            <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE2';ftypes[2]='dropdown';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='PHONE';ftypes[4]='number';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-            <!--End mc_embed_signup-->
-
-            <script type='text/javascript' src='./js/app.js'></script>
+        </div>
+        <div class="js-side-toggler">
+            Onze specialisten
+        </div>
+        <div class="sideContent">
+            <div class="row">
+                <div class="col-12">
+                    <div class="sideContent__inner">
+                        <h2>Onze specialisten</h2>
+                        <ul class="sideContent__list">
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Dakspecialist</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
-   
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+    <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE2';ftypes[2]='dropdown';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='PHONE';ftypes[4]='number';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+    <!--End mc_embed_signup-->
+
+    <script type='text/javascript' src='./js/app.js'></script>
 </body>
 </html>
