@@ -124,6 +124,48 @@ html {
     font-weight: bold;
 }
 
+#specialist_contents {
+    opacity: 0;
+    transform: translateX(100%);
+    position: fixed;
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+    top: 20px;
+    left: 20px;
+    background-color: rgba(255,255,255, .9);
+    padding: 20px;
+    border-radius: 10px;
+    transition-property: opacity, transform;
+    transition-timing-function: ease;
+    transition-duration: 300ms;
+}
+
+@media screen and (min-width: 768px){
+    #specialist_contents {
+        width: calc(100% - 400px);
+        height: calc(100% - 100px);
+        left: 200px;
+        top: 50px;
+    }
+}
+
+#specialist_contents.js-active {
+    opacity: 1;
+    transform: translateX(0);
+    z-index: 10;
+}
+
+#specialist_contents .close {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    width: 10px;
+    height: 10px;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
 
 /* form */
 

@@ -6,7 +6,7 @@
         return;
     }
 
-    function handleToggler(e){
+    const handleToggler = (e) => {
         switch(e.target.value){
             case 'Ik wil een klus plaatsen':
                 termsAndConditions[0].classList.add('js-terms--active');
@@ -23,7 +23,7 @@
         }
     }
 
-    function handleInput(e){
+    const handleInput = (e) => {
         let arrayCheck = [];
         const permissions = document.querySelector('.js-permissions');
 
@@ -41,7 +41,7 @@
         }
     }
 
-    function checkInput(input) {
+    const checkInput = (input) => {
         if(input.value === ""){
             return false;
         }
@@ -65,10 +65,10 @@
         return;
     }
 
-    function handleAddSidebar(e){
+    const handleAddSidebar = (e) => {
         const sideContent = document.querySelector('.sideContent');
 
-        if(e.target === sideToggler || sideContent.children.includes(e.target)){
+        if(e.target === sideToggler || sideContent.contains(e.target) && !e.target.classList.contains('sideContent__specialist')){
             sideToggler.classList.add('js-side-toggler--inactive');
             sideContent.classList.add('js-active');
         } else {
@@ -79,4 +79,47 @@
     }
 
     document.addEventListener('click', handleAddSidebar);
+})();
+
+(()=> {
+    const sideContent = document.querySelector('.sideContent');
+
+    if(!sideContent){
+        return;
+    }
+
+    function populatePre(url) {
+        var xhr = new XMLHttpRequest();
+        xhr.onload = function () {
+            const newParagraph = document.createElement('p');
+            newParagraph.innerText = this.response;
+            document.getElementById('specialist_contents').appendChild(newParagraph);
+
+            console.log(this);
+        };
+        xhr.open('GET', url);
+        xhr.send();
+    }
+
+    const handleSpecialistClose = (e) => {
+        if(e.target === popupFrame.querySelector('.close')){
+            popupFrame.classList.remove('js-active');
+        }
+    }
+
+    const handleSpecialistPopup = (e) => {
+        const fileName = `${e.target.innerText}.php`;
+        //populatePre(`./assets/documents/${fileName}`);
+        sideContent.classList.remove('js-active');
+        popupFrame.classList.add('js-active');
+        
+        document.addEventListener('click', handleSpecialistClose);
+    }
+
+    const popupFrame = document.getElementById('specialist_contents');
+    const specialists = document.querySelectorAll('.sideContent__specialist');
+
+    specialists.forEach(specialist => {
+        specialist.addEventListener('click', handleSpecialistPopup);
+    });
 })();
