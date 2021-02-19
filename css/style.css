@@ -119,9 +119,13 @@ html {
 
 .sideContent__list li a {
     text-decoration: none;
-    text-transform: uppercase;
     color: white;
     font-weight: bold;
+    cursor: pointer;
+}
+
+.sideContent__list li a:hover {
+    text-decoration: underline;
 }
 
 #specialist_contents {
@@ -165,6 +169,27 @@ html {
     font-weight: bolder;
     cursor: pointer;
 }
+
+#specialist_contents .no-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    color: red;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.content__inner {
+    display: none;
+}
+
+.content__inner.js-active {
+    display: block;
+}
+
 
 
 /* form */

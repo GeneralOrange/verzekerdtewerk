@@ -88,28 +88,33 @@
         return;
     }
 
-    function populatePre(url) {
-        var xhr = new XMLHttpRequest();
-        xhr.onload = function () {
-            const newParagraph = document.createElement('p');
-            newParagraph.innerText = this.response;
-            document.getElementById('specialist_contents').appendChild(newParagraph);
-
-            console.log(this);
-        };
-        xhr.open('GET', url);
-        xhr.send();
-    }
-
     const handleSpecialistClose = (e) => {
         if(e.target === popupFrame.querySelector('.close')){
+            const findActiveSection = popupFrame.querySelectorAll('.content__inner.js-active');
+            const noInfoSections = popupFrame.querySelectorAll('.no-info');
+            findActiveSection.forEach(section => {
+                section.classList.remove('js-active');
+            });
+            noInfoSections.forEach(section => {
+                section.remove();
+            })
             popupFrame.classList.remove('js-active');
         }
     }
 
     const handleSpecialistPopup = (e) => {
-        const fileName = `${e.target.innerText}.php`;
-        //populatePre(`./assets/documents/${fileName}`);
+        const sectionName = e.target.innerText.toLowerCase().replace(' ','-');
+        const sectionDiv = popupFrame.querySelector(`#${sectionName}`);
+
+        if(sectionDiv){
+            sectionDiv.classList.add('js-active');
+        } else {
+            const newEl = document.createElement('div');
+            newEl.classList.add('no-info');
+            newEl.innerHTML = 'Nog geen informatie beschikbaar';
+            popupFrame.appendChild(newEl);
+        }
+        
         sideContent.classList.remove('js-active');
         popupFrame.classList.add('js-active');
         

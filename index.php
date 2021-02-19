@@ -209,9 +209,6 @@
                             <li>
                                 <a class="sideContent__specialist">Zzp’er</a>
                             </li>
-                            <li>
-                                <a class="sideContent__specialist">Test</a>
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -221,6 +218,7 @@
             <div class="close">X</div>
             <?php
                 include_once('./template-parts/aannemer.php');
+                include_once('./template-parts/badkamer-specialist.php');
             ?>
         </div>
     </section>
