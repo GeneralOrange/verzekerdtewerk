@@ -75,7 +75,7 @@
             sideToggler.classList.remove('js-side-toggler--inactive');
             sideContent.classList.remove('js-active');
         }
-        
+   
     }
 
     document.addEventListener('click', handleAddSidebar);
