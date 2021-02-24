@@ -96,8 +96,7 @@
 <div id="specialist_contents">
     <div class="close">X</div>
     <?php
-
-        include_once($HOST.'/template-parts/specialists/aannemer.php');
-        include_once($HOST.'/template-parts/specialists/badkamer-specialist.php');
+        include('.../specialists/aannemer.php');
+        include('.../specialists/badkamer-specialist.php');
     ?>
 </div>
