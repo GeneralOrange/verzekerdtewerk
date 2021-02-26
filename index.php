@@ -29,6 +29,25 @@
         </div>
         
         <?php include_once('./template-parts/side-content.php'); ?>
+
+        <div id="specialist_contents">
+            <div class="close">X</div>
+            <?php
+                $dir = './template-parts/specialists/';
+
+                if ($handle = opendir($dir)) {
+
+                    while (false !== ($entry = readdir($handle))) {
+                
+                        if ($entry != "." && $entry != "..") {
+                
+                            include($dir.$entry);
+                        }
+                    }
+                    closedir($handle);
+                }
+            ?>
+        </div>
     </section>
     <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
     <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE2';ftypes[2]='dropdown';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='PHONE';ftypes[4]='number';}(jQuery));var $mcj = jQuery.noConflict(true);</script>

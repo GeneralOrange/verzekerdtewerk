@@ -93,10 +93,3 @@
         </div>
     </div>
 </div>
-<div id="specialist_contents">
-    <div class="close">X</div>
-    <?php
-        include('.../specialists/aannemer.php');
-        include('.../specialists/badkamer-specialist.php');
-    ?>
-</div>
