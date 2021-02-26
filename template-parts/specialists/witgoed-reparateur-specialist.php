@@ -1,4 +1,4 @@
-<div class="content__inner" id="witgoedreparateurspecialist?">
+<div class="content__inner" id="witgoed-reparateur-specialist?">
     <h2>Wat is en wat doet een witgoed reparateur specialist?</h2>
     <p>Een witgoedreparateur is een monteur die zich gespecialiseerd heeft in het repareren van witgoedapparatuur. Onder witgoedapparatuur verstaat men huishoudelijke apparatuur, zoals koelkasten, wasmachines, drogers, droogtrommels, vaatwassers en koelkasten. </p>
     <p>De taken van een witgoed reparateur specialist zijn dan ook : </p>
