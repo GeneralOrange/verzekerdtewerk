@@ -88,6 +88,12 @@
         return;
     }
 
+    function sanitizeString(str){
+        str = str.replace(/[^a-z0-9áéíóúñü \.,_-]/gim,'');
+        str = str.replace(/ /g,'-').toLowerCase();
+        return str.trim();
+    }
+
     const handleSpecialistClose = (e) => {
         if(e.target === popupFrame.querySelector('.close')){
             const findActiveSection = popupFrame.querySelectorAll('.content__inner.js-active');
@@ -103,8 +109,10 @@
     }
 
     const handleSpecialistPopup = (e) => {
-        const sectionName = e.target.innerText.toLowerCase().replace(' ','-');
+        const sectionName = sanitizeString(e.target.innerText);
         const sectionDiv = popupFrame.querySelector(`#${sectionName}`);
+
+        console.log(sectionName, sectionDiv);
 
         if(sectionDiv){
             sectionDiv.classList.add('js-active');
