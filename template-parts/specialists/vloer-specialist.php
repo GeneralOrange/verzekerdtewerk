@@ -1,4 +1,4 @@
-<div class="content__inner" id="vloer-specialist ">
+<div class="content__inner" id="vloer-specialist">
     <h2>Wat is en wat doet een vloer specialist ?</h2>
     <p>Wat doet een vloerspecialist?
 Een vloerspecialist kan een vergunning hebben om alle soorten vloeren te installeren, inclusief vloerbedekking, vinyl, tegels en hardhout. Sommige vloerspecialisten werken met slechts één medium, zoals marmer. De meeste vloerspecialisten doen ook reparatiewerkzaamheden en restauraties, evenals installatie. Deze experts kunnen ook remodellering en ontwerpdiensten aanbieden. Veel vloerspecialisten zijn onafhankelijke aannemers en bieden commerciële en residentiële service.
