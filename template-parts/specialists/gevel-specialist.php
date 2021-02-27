@@ -3,14 +3,16 @@
     <br>
     <h4>Gevel specialist</h4>
 <p>Een specialist gespecialiseerd op gevels voert diverse klussen uit. Over het algemeen bestaat gevelwerk uit reinigen, het uitlijnen van voegen, impregneren en uit herstelwerkzaamheden.    </p>
-<p>Reinigen 
-Een grondige reiniging is vaak bij elke gevel de eerste stap waarmee een gevelspecialist begint. De meeste gevels zijn namelijk erg vatbaar voor algengroei en mosgroei en dienen regelmatig schoon gemaakt te worden. Planten- en schimmelgroei kan schadelijk zijn voor het materiaal en zelfs tot ernstige afname van kwaliteit en tot vochtproblemen zorgen. Een specialist zorgt ervoor dat de gevel grondig wordt gereinigd (ook wel stoom cleanen genoemd) en verwijderd mos, algen en eventuele klimop of andere ongewenste plantengroei grondig. </p>    
+<h6>Reinigen </h6>
 
-<p>Impregneren 
-Een gevel dient goed beschermd te zijn tegen zware weersomstandigheden. Indien het materiaal van de gevel beschadigd is, of aan vervanging toe is, kan het materiaal geen goede bescherming meer bieden tegen weersinvloeden, waardoor het materiaal vatbaar is voor schimmelgroei of vochtproblemen. Dit kan de waarde van uw woning doen dalen. Een veel voorkomend onderdeel van gevelwerk is daarom het impregneren van de gevel. Het impregneren van uw gevel is een specialistische klus waarbij een vakman een speciale waterafstotende laag aanbrengt op de gevel. Deze laag zorgt ervoor dat het materiaal van de gevel optimaal beschermd blijft en hierdoor een langere levensduur heeft. </p>    
+<p>Een grondige reiniging is vaak bij elke gevel de eerste stap waarmee een gevelspecialist begint. De meeste gevels zijn namelijk erg vatbaar voor algengroei en mosgroei en dienen regelmatig schoon gemaakt te worden. Planten- en schimmelgroei kan schadelijk zijn voor het materiaal en zelfs tot ernstige afname van kwaliteit en tot vochtproblemen zorgen. Een specialist zorgt ervoor dat de gevel grondig wordt gereinigd (ook wel stoom cleanen genoemd) en verwijderd mos, algen en eventuele klimop of andere ongewenste plantengroei grondig. </p>    
 
-<p>Herstelwerkzaamheden
-Indien het materiaal van de gevel dusdanig beschadigd is, is het aan te raden om het materiaal volledig te laten herstellen of vervangen. Een specialist voert hiervoor herstelwerkzaamheden uit. Vaak wordt hiervoor nieuw materiaal aangebracht en gekozen om een het nieuwe materiaal direct te laten impregneren. Hiermee voorkomt u dat het materiaal op korte termijn weer vervangen dient te worden. Een gevel die volledig hersteld is zal er weer zo goed als nieuw uitzien en zal de waarde van uw woning doen stijgen. </p>    
+<h6>Impregneren </h6>
+
+<p>Een gevel dient goed beschermd te zijn tegen zware weersomstandigheden. Indien het materiaal van de gevel beschadigd is, of aan vervanging toe is, kan het materiaal geen goede bescherming meer bieden tegen weersinvloeden, waardoor het materiaal vatbaar is voor schimmelgroei of vochtproblemen. Dit kan de waarde van uw woning doen dalen. Een veel voorkomend onderdeel van gevelwerk is daarom het impregneren van de gevel. Het impregneren van uw gevel is een specialistische klus waarbij een vakman een speciale waterafstotende laag aanbrengt op de gevel. Deze laag zorgt ervoor dat het materiaal van de gevel optimaal beschermd blijft en hierdoor een langere levensduur heeft. </p>    
+
+<h6>Herstelwerkzaamheden</h6> 
+<p>Indien het materiaal van de gevel dusdanig beschadigd is, is het aan te raden om het materiaal volledig te laten herstellen of vervangen. Een specialist voert hiervoor herstelwerkzaamheden uit. Vaak wordt hiervoor nieuw materiaal aangebracht en gekozen om een het nieuwe materiaal direct te laten impregneren. Hiermee voorkomt u dat het materiaal op korte termijn weer vervangen dient te worden. Een gevel die volledig hersteld is zal er weer zo goed als nieuw uitzien en zal de waarde van uw woning doen stijgen. </p>    
 <h6>De taken van een gevel specialist zijn dan ook : </h6>    
 <ul>   
 

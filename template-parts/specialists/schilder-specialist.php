@@ -3,11 +3,11 @@
 <br>
 <h4> Schilder specialist </h4> 
 <p>Als schilder ben je iemand die houtwerk, kunststof, beton, metaal of andere materialen voorziet van een verflaag. Je bent o.a. bezig met het uitvoeren van onderhoud schilderwerken maar ook kun je opdrachten krijgen voor nieuwbouwschilderwerk. De werkzaamheden kunnen zowel binnen, als buiten worden uitgevoerd. </p>           
-<h3> Waar kun je werken als schilder? </h3>
+<h5> Waar kun je werken als schilder? </h5>
 <p>Als schilder ben je aan het werk voor en bij bedrijven in de schilders-en onderhoudssector. Vaak voer je werkzaamheden uit voor verschillende opdrachtgevers en organisaties. Hierbij kun je denken aan bijvoorbeeld de woningbouw, renovatie- en verbouwingsklussen en het vastgoed onderhoud. </p>           
-<h3> Welke competenties heb je nodig als schilder? </h3>
+<h5> Welke competenties heb je nodig als schilder? </h5>
 <p>Als schilder moet je natuurlijk een goed resultaat leveren om de klant tevreden te stellen. Je moet daarom altijd goed letten op (kleine) onderliggende problemen. Dit vergt veel inzicht in de omgeving, accuratesse en discipline. Daarnaast moet je goed kunnen omgaan met details en moet je precies te werk gaan. Verder moet je geen last hebben van hoogtevrees en ook moet je het niet erg vinden om onder wisselende weersomstandigheden te moeten werken. Ook kan het werk van een schilder lichamelijk zwaar zijn doordat je vaak lang in dezelfde houding staat. </p>           
-<h3> Hoe ziet een werkdag eruit van een schilder? </h3>
+<h5> Hoe ziet een werkdag eruit van een schilder? </h5>
 <p>Een werkdag van eens schilder kan elke dag variëren. De ene dag ga voor schilderwerken naar een binnenlocatie, terwijl je de andere dag gaat schilderen op een buitenlocatie. Ook kan het voorkomen dat jij andere werkzaamheden als behangen of voorbereidingswerk uitvoert. </p>           
 
 <p>Werkzaamheden kunnen bestaan uit: </p>    

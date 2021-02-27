@@ -3,7 +3,7 @@
     <br>
 <h4>   Keukenmonteur specialist </h4>    
 <p>     Een keukenmonteur is de specialist als het gaat om werkzaamheden zoals het in- en verbouwen van de keuken. Een keukeninstallateur is erom bijvoorbeeld als je de huidige keuken wil renoveren of als er nieuwe apparaten in de keuken geplaatst moeten worden. Veel keukenmonteurs werken als zzp'er of zij zijn in loondienst bij een keukenspeciaalzaak. </p>     
-<h3>   De werkzaamheden van een keukenmonteur</h3>    
+<h5>   De werkzaamheden van een keukenmonteur</h5>    
 <p>   Nieuwe keuken: Een keukenmonteur is de persoon om jouw nieuwe keuken voor je te plaatsen. Je kan hem of haar inschakelen om een keuken te laten installeren die jij zelf ergens besteld hebt, of de monteur maakt zelf een keuken voor je op maat. Uiteraard zijn aan de tweede optie meer kosten verbonden. Behalve kasten en apparaten plaatsen kan de keukenspecialist jouw elektriciteit, water en eventueel het gas aansluiten. Dat kookt toch een stuk makkelijker. </p>     
 <p>   Renovaties: Wanneer je een beetje klaar ben met je huidige keuken is het echt niet altijd nodig om meteen een hele nieuwe keuken te laten plaatsen. Nieuwe deuren en frontjes op de keukenkasten of een nieuw werkblad geven de keuken meteen al een totaal nieuwe uitstraling. Dit noem je een keukenrenovatie. De keukenmonteur is er voor je om de gehele renovatie uit je handen te nemen. </p>     
 <p>   Nieuwe apparaten: Koop je een Quooker, vaatwasser of inductiekookplaat, dan laat je geen hele nieuwe keuken plaatsen. Maar het is dan toch raadzaam om een keukenmonteur in te schakelen om je te helpen. Dan weet je zeker dat je geen lekkages krijgt en ook dat alle apparaten veilig werken. </p>     

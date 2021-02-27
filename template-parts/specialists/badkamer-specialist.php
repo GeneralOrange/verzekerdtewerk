@@ -2,7 +2,6 @@
     <h2>Wat is en wat doet een badkamer specialist?</h2>
     <br>
     <h4>Badkamer specialist</h4>
-    <br>
     <p>Badkamer specialisten staan in voor de volledige badkamerrenovatie. Van de opmaak van een gedetailleerd plan tot het afstoffen van de meubels bij de oplevering. Badkamer specialisten kunnen zowel leidingen leggen, tegelwerk uitvoeren het bad en of douche plaatsen en niet te vergeten het meubel! Uiteraard kunnen zij ook de sloopwerkzaamheden uitvoeren. Badkamer specialisten nemen de volledige opdracht in armen, zij coördineren alle stappen die gezet moeten worden van A tot Z.</p>
     <h6>De taken van een badkamer specialist zijn dan ook :</h6>
     <ul>
