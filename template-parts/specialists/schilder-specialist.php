@@ -1,7 +1,7 @@
 <div class="content__inner" id="schilder-specialist">
     <h2>  Wat is en wat doet een schilder specialist? </h2>       
-
-<h3> Wat doet een schilder? </h3> 
+<br>
+<h4> Schilder specialist </h4> 
 <p>Als schilder ben je iemand die houtwerk, kunststof, beton, metaal of andere materialen voorziet van een verflaag. Je bent o.a. bezig met het uitvoeren van onderhoud schilderwerken maar ook kun je opdrachten krijgen voor nieuwbouwschilderwerk. De werkzaamheden kunnen zowel binnen, als buiten worden uitgevoerd. </p>           
 <h3> Waar kun je werken als schilder? </h3>
 <p>Als schilder ben je aan het werk voor en bij bedrijven in de schilders-en onderhoudssector. Vaak voer je werkzaamheden uit voor verschillende opdrachtgevers en organisaties. Hierbij kun je denken aan bijvoorbeeld de woningbouw, renovatie- en verbouwingsklussen en het vastgoed onderhoud. </p>           
@@ -23,7 +23,7 @@
 </ul>       
 
 
-<p>           De taken van een schilder specialist zijn dan ook : </p>    
+<h6>           De taken van een schilder specialist zijn dan ook : </h6>    
 <ul>                
 <li>    De schilder specialist regelt een planning en verzorgd deze ook. </li>
 <li>    De schilder specialist zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ). </li>
@@ -33,7 +33,7 @@
 </ul>       
 
 
-<p>Bent u van plan om een schilder specialist in te schakelen? Dan zit u bij verzekerd te werk op de goede plek! Meld u snel aan om uw klus te plaatsen en zo uw geweldig project te kunnen realiseren! </p>
+<p><b>Bent u van plan om een schilder specialist in te schakelen? Dan zit u bij verzekerd te werk op de goede plek! Meld u snel aan om uw klus te plaatsen en zo uw geweldig project te kunnen realiseren!</b> </p>
 
     <button class="btn btn-success js-aanmelden">Meld je nu aan</button>
 </div>

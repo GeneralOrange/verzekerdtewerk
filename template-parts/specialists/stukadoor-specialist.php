@@ -1,6 +1,8 @@
 <div class="content__inner" id="stukadoor-specialist">
     <h2>Wat is en wat doet een stukadoor specialist?</h2>
-    <p>Wat is een stukadoor?
+    <br>
+    <h4>Stukadoor specialist</h4>
+    <p>
 Een stukadoor is een vakman die stucwerk aanbrengt op muren, wanden, plafonds en gevels. Dit stucwerk, bestaande uit specie, pleister of gipsmortel, vormt een afwerklaag en is bedoeld ter bescherming en/of verfraaiing van het interieur.
 Wat doet een stukadoor?
 Stukadoors brengen een afwerklaag aan op muren, wanden, gevels en plafonds die dient ter versteviging, bescherming en ook vaak ter verfraaiing.
@@ -27,7 +29,7 @@ Tot de voornaamste werkzaamheden van de stukadoor behoren de volgende zaken:
 <li>Reparen van oude stuklagen
 </li>
     </ul>
-    <p>De taken van een stukadoor specialist zijn dan ook :  </p>
+    <h6>De taken van een stukadoor specialist zijn dan ook :  </h6>
     <ul>
         <li>De stukadoor specialist regelt een planning en verzorgd deze ook.</li>
         <li>De stukadoor specialist zorgt voor de materialen ( tenzij anders overeen gekomen in overeenkomst ).</li>
@@ -36,6 +38,6 @@ Tot de voornaamste werkzaamheden van de stukadoor behoren de volgende zaken:
         <li>De stukadoor specialist kan u adviseren.</li>
     </ul>
 
-    <p>Bent u van plan om een stukadoor specialist in te schakelen? Dan zit u bij verzekerd te werk op de goede plek! Meld u snel aan om uw klus te plaatsen en zo uw geweldig project te kunnen realiseren! </p>
+    <p><b>Bent u van plan om een stukadoor specialist in te schakelen? Dan zit u bij verzekerd te werk op de goede plek! Meld u snel aan om uw klus te plaatsen en zo uw geweldig project te kunnen realiseren! </b></p>
     <button class="btn btn-success js-aanmelden">Meld je nu aan</button>
 </div>
