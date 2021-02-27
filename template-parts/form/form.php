@@ -2,17 +2,13 @@
 <div id="mc_embed_signup" class="basicForm">
     <form action="https://verzekerdtewerk.us7.list-manage.com/subscribe/post?u=c072e8ad549fde0321bbc053f&amp;id=1e66aaa7cd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll" class="basicForm__inner">
-            <div class="row">
-                <div class="col-12 col-lg-6">
-                    <div class="mb-3">
-                        <label for="mce-MMERGE2" class="form-label">Klant / Aannemer  <span class="asterisk">*</span></label>
-                        <select name="MMERGE2" class="required form-select js-selector js-forminput" id="mce-MMERGE2">
-                            <option value=""></option>
-                            <option value="Ik wil een klus plaatsen">Ik wil een klus plaatsen</option>
-                            <option value="Ik wil klussen">Ik wil klussen</option>
-                        </select>
-                    </div>
-                </div>
+            <div class="row">   
+                <div class="d-none">   
+                    <ul>
+                        <li><input type="radio" value="1" name="group[80193]" id="mce-group[80193]-80193-0" checked><label for="mce-group[80193]-80193-0">Opdrachtgever</label></li>
+                        <li><input type="radio" value="2" name="group[80193]" id="mce-group[80193]-80193-1"><label for="mce-group[80193]-80193-1">Specialist</label></li>
+                    </ul>
+                </div>         
                 <div class="col-12 col-lg-6">
                     <div class="mb-3">
                         <label for="mce-EMAIL" class="form-label">Email  <span class="asterisk">*</span></label>
@@ -78,7 +74,7 @@
                                 <p>Wij gebruiken Mailchimp als marketing platform. Door op de knop "Meld je aan!" te klikken, erkent u dat de informatie naar Mailchimp wordt gestuurd om te verwerken. <a rel="nofollow" href="https://mailchimp.com/legal/" target="_blank">Lees meer over Mailchimp's privacy praktijken hier.</a></p>
                             </div>
                         </div>
-                        <div class="terms js-terms js-toggle-opdrachtgever alert alert-primary">Door als opdrachtgever op de knop "Meld je aan!" te klikken, bevestigd u dat u 18 jaar of ouder bent en gaat u akkoord met onze <a target="_blank" href="./assets/documents/Algemene_voorwaarden_opdrachtgever.pdf">algemene voorwaarden</a></div>
+                        <div class="terms js-terms js-terms--active js-toggle-opdrachtgever alert alert-primary">Door als opdrachtgever op de knop "Meld je aan!" te klikken, bevestigd u dat u 18 jaar of ouder bent en gaat u akkoord met onze <a target="_blank" href="./assets/documents/Algemene_voorwaarden_opdrachtgever.pdf">algemene voorwaarden</a></div>
                         <div class="terms js-terms js-toggle-specialist alert alert-primary">Door als specialist op de knop "Meld je aan!" te klikken, bevestigd u dat u 18 jaar of ouder bent en gaat u akkoord met onze <a target="_blank" href="./assets/documents/Algemene_voorwaarden_Specialist.pdf">algemene voorwaarden</a></div>
                     </div>
                 </div>

@@ -1,7 +1,4 @@
 <?php
-    echo '<pre>';
-    var_dump($_SERVER);
-    echo '</pre>';
 
     $HOST = $_SERVER['SERVER_NAME'];
     $DOMAIN_NAME = $HOST;
