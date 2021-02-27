@@ -3,7 +3,7 @@
 <br>
 <h4> Glaszet specialist</h4>
 <p> Een glaszetter is een vakman die glas plaatst of vervangt in de woningbouw, hoogbouw, utiliteitsbouw, etc. Van woningen en kantoorgebouwen tot kassen, scholen, fabrieken en winkels. Soms werkt een glaszetter samen met en gezel glaszetter, die het werk voorbereidt en planningen maakt omtrent kosten en materialen.    </p>
-<h3> Wat doet een glaszetter? </h3>
+<h5> Wat doet een glaszetter? </h5>
 <p> De werkzaamheden van glaszetters zien er over het algemeen als volgt uit: </p>
 <ul>
 <li>Plaatsen van glazen ruiten (enkel, dubbel en speciaal glas) in ramen en kozijnen (beglazen), zowel bij bestaande gebouwen als bij nieuwbouw</li>
@@ -19,7 +19,7 @@
 <li>Opruimen van de werkplek en schoonmaken van ramen en kozijnen</li>
 Belangrijke onderwerpen: functieomschrijving glaszetter, functie-eisen glaszetter, functieprofiel glaszetter, taken van een glaszetter, verantwoordelijkheden glaszetter, wat doet een glaszetter, wat is een glaszetter, werken als glaszetter, werkzaamheden glaszetter.
 </ul>
-<h3> Soorten glas</h3>
+<h5> Soorten glas</h5>
 <p> Er zijn verschillende soorten glas waarmee glaszetters werken: </p>
 
 

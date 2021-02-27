@@ -14,6 +14,7 @@
         <li>De aannemer regelt de verbouwing van A tot Z. ( tenzij anders overeen gekomen in overeenkomst ).</li>
         <li>De aannemer kan u adviseren.</li>
     </ul>
+    
 
     <p><b>Bent u van plan om een aannemer in te schakelen? Dan zit u bij verzekerd te werk op de goede plek! Meld u snel aan om uw klus te plaatsen en zo uw geweldig project te kunnen realiseren!</b></p>
     <button class="btn btn-success js-aanmelden">Meld je nu aan</button>

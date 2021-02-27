@@ -1,4 +1,4 @@
-<div class="content__inner" id="bouwkundig-ontwerper(-algemeen-)specialist">
+<div class="content__inner" id="bouwkundig-ontwerper--algemeen--specialist">
    <h2>   Wat is en wat doet een bouwkundig ontwerper ( algemeen ) specialist? </h2>   
    <br>
 <h4>   Bouwkundig tekenaar / ontwerper</h4>   
