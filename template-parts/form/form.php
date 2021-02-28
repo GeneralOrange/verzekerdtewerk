@@ -34,6 +34,12 @@
                         <input type="number" name="PHONE" class="form-control js-forminput" value="" id="mce-PHONE">
                     </div>
                 </div>
+                <div class="col-12">
+                    <div class="mb-3">
+                        <label for="mce-MMERGE2" class="form-label">Omschrijving </label>
+                        <textarea type="text" rows="5" cols="5" value="" name="MMERGE2" class="form-control js-forminput" id="mce-MMERGE2"></textarea>
+                    </div>
+                </div>
                 <div class="col-12 col-lg-6">
                     <div class="indicates-required mb-3">
                         <span class="asterisk">*</span> is verplicht

@@ -216,3 +216,65 @@ input[type="submit"]{
 .js-permissions--active {
     display: block;
 }
+
+.footer {
+    background-color: rgb(49, 49, 49);
+    color: white;
+    padding: 50px 0;
+}
+
+.footer__title {
+    font-size: 24px;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.footer__links a {
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.footer__links a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.signup {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1;
+}
+
+.signup__title {
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.signup__button {
+    color: white;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.signup__button:hover {
+    color: white;
+    background-color: rgb(200, 0, 0);
+}
