@@ -1,4 +1,4 @@
-<div class="content__inner" id="Stratenmaker-specialist">
+<div class="content__inner" id="stratenmaker-specialist">
    <h2>Wat is en wat doet een stratenmaker specialist?</h2>
 <br>
 <h4>Stratenmaker specialist</h4>

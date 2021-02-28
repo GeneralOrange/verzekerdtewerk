@@ -1,4 +1,4 @@
-<div class="content__inner" id="tegelzetter-specialist ">
+<div class="content__inner" id="tegelzetter-specialist">
     <h2>Wat is en wat doet een tegelzetter specialist ?</h2>
     <br>
     <h4>Tegelzetter specialist</h4>

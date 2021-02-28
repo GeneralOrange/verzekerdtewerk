@@ -17,8 +17,10 @@
         <div class="mainContent__inner">
             <div class="row">
                 <div class="col-12">
-                    <h1>Meldt je nu aan bij verzekerdtewerk.nl!</h1>
-                    <p>Wij van verzekerd te werk helpen jou de klus probleemloos te realiseren.</p>
+                    <h1>Jou klus, jou droom! Verzekerd te werk helpt jou hierbij!</h1>
+                    <p>Wil jij jou klus door een professional gedaan hebben? Zou jij wat extra korting kunnen gebruiken op jou project?</p>
+    <p>Laat jou klus dan bij ons achter en wij helpen jou hierbij!
+</p>
                 </div>
             </div>
 

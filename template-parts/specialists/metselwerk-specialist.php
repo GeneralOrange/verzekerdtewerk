@@ -1,5 +1,5 @@
-<div class="content__inner" id="mestelwerk-specialist">
-    <h2>  is en wat doet een metselwerk specialist? </h2>       
+<div class="content__inner" id="metselwerk-specialist">
+    <h2>  Wat is en wat doet een metselwerk specialist? </h2>       
 <br>
 <h4>    Metselaar specialist</h4>
 <p>       Een metselaar kan u helpen met uw metselwerk en biedt verschillende diensten aan. Omdat elke opdracht anders is wordt er veelal een andere combinatie van diensten geleverd door de vakman. Een metselaar kan u daarom meer informatie en advies over de werkzaamheden die bij u thuis gaan plaats vinden geven. Een metselaar kan opvoegen, muren metselen en u helpen met gevel bekleding. </p>           
