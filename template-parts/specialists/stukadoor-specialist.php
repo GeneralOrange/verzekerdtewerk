@@ -10,8 +10,6 @@ Tot de voornaamste werkzaamheden van de stukadoor behoren de volgende zaken:
 </p>
 <ul>
 <li>Voorbereiden van het oppervlak (schoonmaken, verwijderen behang, etc.)
-<li>
-</li>
 <li>Afplakken van overgangsgebieden met gaas ter voorkoming van scheuren
 </li>
 <li>Voorstrijken van de ondergrond met een voorstrijkmiddel

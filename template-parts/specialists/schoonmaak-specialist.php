@@ -1,4 +1,4 @@
-<div class="content__inner" id="Schoonmaak-specialist">
+<div class="content__inner" id="schoonmaak-specialist">
    
    <h2> Wat is en wat doet een  schoonmaak specialist? </h2>
 <br>
