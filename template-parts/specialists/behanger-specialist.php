@@ -1,0 +1,21 @@
+<div class="content__inner" id="behanger-specialist">
+    <h2>   Wat is en wat doet een behanger specialist? </h2>  
+    <br>  
+<h4> Behanger specialist </h4> 
+<p>     Een behanger is een vakman die verantwoordelijk is voor diverse werkzaamheden die met behangen te maken hebben. Denk hierbij bijvoorbeeld aan het verwijderen van oud behang, het eventueel repareren van wanden en aan het aanbrengen van nieuw behang. Voordat een behanger gaat behangen zal hij of zij eerst alle oneffenheden in de muur verwijderden, omdat dit anders later zichtbaar zal zijn. Als wanden in slechte conditie verkeren kan het nodig zijn dat er eerst een stukadoor komt, omdat een behanger over het algemeen geen hele wanden zal repareren. De grote kunst van het behangen is dat het net moet lijken alsof er een grote print tegen de wand is geplaatst zonder dat er naden zichtbaar zijn. Daarnaast is het erg belangrijk dat alle afbeeldingen op het behang netjes in elkaar overlopen. Ook is het van belang dat er geen luchtbellen ontstaan achter het behang. Kleine luchtbellen zijn nog wel te verwijderen door er een gaatje in te prikken, maar bij grote luchtbellen is dit lastiger. Een goede behanger is aan te merken als een specialist, omdat goed behangen nog niet zo makkelijk is. Over het algemeen is het zo dat het beroep behanger gecombineerd zal worden met het beroep schilder, maar dit hoeft niet altijd het geval te zijn. Er zijn ook behangers werkzaam die alleen behangwerkzaamheden uitvoeren. Als behanger zal u met verschillende soorten behang te maken krijgen, die ook door middel van verschillende technieken aangebracht kunnen worden. Behang is er tegenwoordig in veel verschillende soorten, van goedkoop tot kostbaar behang. </p>    
+<p>     Een behanger is dus op een professionele manier gespecialiseerd in het behangen van binnenwanden. Over het algemeen is het zo dat behang toegepast wordt om een bepaalde ruimte te verfraaien. Door middel van het toepassen van behang kan een ruimte op een snelle manier een totaal andere uitstraling krijgen. Tegenwoordig maakt men ook veel gebruik van glasvezelbehang dat breder is dan normaal behang. Bij glasvezelbehang kan de breedte oplopen tot meer dan een meter. Bij normaal behang is dit 53 centimeter. Glasvezelbehang heeft het voordeel dat het goed overschilder baar is en makkelijk schoon te maken is. Door moderne technieken is het zelfs mogelijk om een eigen foto op behang te laten afdrukken. </p>    
+<p>     Er zijn vandaag de dag veel verschillende soorten behang te verkrijgen, van goedkoop tot duur. De meeste goedkopere behangsoorten voelen aan als papier en zijn vaak lastig te verwerken. Met deze goedkope behangsoorten moet men over het algemeen niet de beste kwaliteit behangwerk verwachten. De goedkopere behangsoorten zijn dan ook over het algemeen meer geschikt voor slaapkamers. In de woonkamer of andere ruimtes op de begane grond worden over het algemeen wat betere soorten behang geplakt. De duurdere behangsoorten zijn ook veel dikker en sterker dan de goedkope soorten. Het zelf behangen is niet voor iedereen weggelegd. Het netjes kunnen behangen is erg belangrijk om tot een goed resultaat te kunnen komen. Veel mensen besteden behangwerkzaamheden liever uit, omdat ze er zelf niet goed in zijn. De meeste behangers rekenen een vaste prijs per rol die ze behangen. Een goede professionele behanger kan naadloos behangen. Het naadloos behangen is over het algemeen niet makkelijk. </p>    
+
+<h6>     De taken van een behang(er) specialist zijn dan ook : </h6>    
+<ul>   
+
+<li>    De behang(er) specialist regelt een planning en verzorgd deze ook. </li>    
+<li>    De behang(er) specialist zorgt voor de materialen ( tenzij anders overeen gekomen in overeenkomst ). </li>    
+<li>    De behang(er) specialist regelt de werkzaamheden van A tot Z. ( tenzij anders overeen gekomen in overeenkomst ). </li>    
+<li>    De behang(er) specialist kan u adviseren. </li>    
+</ul>   
+
+<p>   <b> Bent u van plan om een behanger specialist in te schakelen? Dan zit u bij verzekerd te werk op de goede plek! Meld u snel aan om uw klus te plaatsen en zo uw geweldig project te kunnen realiseren!</b> </p>    
+
+    <button class="btn btn-success js-aanmelden">Meld je nu aan</button>
+</div>

@@ -1,4 +1,8 @@
 <?php
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
     $HOST = $_SERVER['SERVER_NAME'];
     $DOMAIN_NAME = $HOST;
 

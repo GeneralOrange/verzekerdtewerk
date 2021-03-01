@@ -1,6 +1,6 @@
 //Form handlers
 (()=> {
-    const selector = document.querySelector('.js-selector');
+    const selector = document.querySelector('.basicForm');
 
     if(!selector){
         return;
@@ -51,7 +51,7 @@
     const termsAndConditions = document.querySelectorAll('.js-terms');
     const forminputs = document.querySelectorAll('.js-forminput');
 
-    selector.addEventListener('change', handleToggler);
+    //selector.addEventListener('change', handleToggler);
 
     forminputs.forEach(input => {
         input.addEventListener('change', handleInput);
