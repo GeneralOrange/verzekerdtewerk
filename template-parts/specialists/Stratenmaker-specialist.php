@@ -8,7 +8,7 @@ Wat doet een stratenmaker?
 Stratenmakers leggen straten, stoepen, pleinen, erven en (delen van) tuinen aan. Ze operen over het algemeen in tweetallen: een stratenmaker en een opperman. Deze opperlieden zorgen dat de stratenmakers altijd over voldoende stenen en ander materiaal beschikken. Behalve hun fysieke gesteldheid moet ook de theoretische kennis van stratenmakers op orde zijn om de bestrating mooi egaal te kunnen neerleggen.
 Soorten bestrating waarmee stratenmakers werken zijn onder andere bakstenen, keien, klinkers, natuurstenen en tegels. Aangezien ze regelmatig tuinen bestraten, dienen ze ook kennis te hebben van beplanting, schuttingen, vlonders, plateaus en terrassen.</p>
 
-<h6>De taken van een stratenmaker specialist zijn dan ook : </h6>
+<h5>De taken van een stratenmaker specialist zijn dan ook : </h5>
 <ul>
 
 <li> De stratenmaker specialist regelt een planning en verzorgd deze ook. </li>

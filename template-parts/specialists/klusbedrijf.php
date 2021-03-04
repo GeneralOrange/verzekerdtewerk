@@ -21,7 +21,7 @@
 <p>           De term klusjesman betekent iemand die allround inzetbaar is. Zo merken wij als schoonmaak en klussenbedrijf dat onze werknemers worden ingezet als tuinman, timmerman, stukadoor of metselaar. Binnen het werk van klusjesman vallen dus verschillende beroepen en functies uiteen. </p>           
 
 
-<h6>           De taken van een klusbedrijf zijn dan ook : </h6>           
+<h5>           De taken van een klusbedrijf zijn dan ook : </h5>           
 <li>    Het klusbedrijf regelt een planning en verzorgd deze ook. </li>
 <li>    Het klusbedrijf zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ). </li>
 <li>    Het klusbedrijf verzorgd de juiste vakmannen voor uw klus per werkzaamheden. </li>

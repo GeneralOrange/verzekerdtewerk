@@ -7,7 +7,7 @@
 De Sloper voert alle voorkomende sloopwerkzaamheden uit. Slopen is het (tot aan de grond) afbreken van een roerend of onroerend goed tot kleinere componenten. De Sloper voert de sloopwerkzaamheden vaak in opdracht van een klant uit. De klant kan om verschillende redenen iets gesloopt willen hebben. Zo kan de Sloper iets slopen om bepaalde onderdelen opnieuw te gebruiken, om de grond vrij te maken, omdat iets vervallen is, om vandalistisch gedrag te voorkomen of uit het oogpunt van recycling.
 Wanneer het doel van de sloop is om de grond vrij te maken, is het voor de Sloper onbelangrijk of de delen heel blijven. Als delen wel gerecycled of hergebruikt gaan worden, moet de Sloper anders te werk gaan en de sloop stapsgewijs uitvoeren. De manier van slopen hangt dus sterk af van het doel van de sloop. 
 De sloper kan dus een hoop ‘’slopen’’ denk hierbij aan alle sloop werkzaamheden die bij jou thuis moeten gebeuren! Van badkamer tot woonkamer tot het dak of de tuin!</p>
-<h6> De taken van een sloop specialist zijn dan ook : </h6>
+<h5> De taken van een sloop specialist zijn dan ook : </h5>
 <lu>
 
 <li> De sloop specialist regelt een planning en verzorgd deze ook.</li>

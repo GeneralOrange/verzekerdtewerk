@@ -25,7 +25,7 @@ Voor schoonmakers die buiten werkzaam zijn, zijn er weer andere specifieke werkz
 
 
 
-<h6>     De taken van een schoonmaak specialist zijn dan ook : </h6>     
+<h5>     De taken van een schoonmaak specialist zijn dan ook : </h5>     
 <ul>   
 <li>  De schoonmaak specialist regelt een planning en verzorgd deze ook. </li>
 <li>  De schoonmaak specialist zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ). </li>

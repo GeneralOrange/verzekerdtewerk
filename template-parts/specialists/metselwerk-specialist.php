@@ -13,7 +13,7 @@
 <p>       Als u wilt weten wat een metselaar precies voor u kan betekenen is het handig om te kijken naar de prijzen bij verschillende metselaarsbedrijven. Zo kunt u het aanbod vergelijken en een betere keuze maken. Ga hiervoor naar pagina metselaar offertes. </p>           
 
 
-<h6>       De taken van een metselwerk specialist zijn dan ook : </h6>         
+<h5>       De taken van een metselwerk specialist zijn dan ook : </h5>         
 <ul>           
 <li>    De metselwerk specialist regelt een planning en verzorgd deze ook. </li>
 <li>    De metselwerk specialist zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ). </li><li>    De metselwerk specialist regelt voor u de ontheffingen ( tenzij anders overeen gekomen in overeenkomst ) indien deze nodig zijn. </li>

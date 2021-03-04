@@ -13,7 +13,7 @@ Tapijtverzorgers stomen tapijt vaak schoon in woonhuizen of commerciële gebouwe
 In veel gevallen geeft een vloerspecialist op verzoek een schatting thuis en een gratis prijsopgave. Een vloerspecialist kan ook inspecties uitvoeren bij bedrijven of overheidsgebouwen. Als onderdeel van zijn dienst kan de vloerinspecteur een gedetailleerd rapport voor zijn cliënt schrijven. In zijn rapport worden doorgaans alle gevonden schadegevallen vermeld en de vereisten om deze te corrigeren.
 Veel vloerspecialisten maken ook afgewerkte betonnen vloeren schoon en vervangen deze ook. Deze procedure omvat meestal het strippen van de vloer om was en vuil te verwijderen en vervolgens een nieuw afdichtmiddel aan te brengen. In veel gevallen verwijdert de vloerspecialist alle meubels uit de kamer voordat hij aan zijn werk begint. Hij kan ook een beschermende laag rond plinten aanbrengen om schade te voorkomen. Vloerspecialisten kunnen ook garagevloeren reinigen die zijn bevlekt door vet, olie of bandensporen.
 </p>
-    <h6>De taken van een vloer specialist zijn dan ook :</h6>
+    <h5>De taken van een vloer specialist zijn dan ook :</h5>
     <ul>
         <li>De vloer specialist regelt een planning en verzorgd deze ook.</li>
         <li>De vloer specialist zorgt voor de materialen ( tenzij anders overeen gekomen in overeenkomst ).</li>

@@ -18,7 +18,7 @@
 
 
 
-<h6>           De taken van een kozijnen specialist zijn dan ook : </h6>           
+<h5>           De taken van een kozijnen specialist zijn dan ook : </h5>           
 <ul>         
 <li>    De  kozijnen specialist regelt een planning en verzorgd deze ook. </li>
 <li>    De  kozijnen specialist zorgt voor de materialen ( tenzij anders overeen gekomen in overeenkomst ). </li>

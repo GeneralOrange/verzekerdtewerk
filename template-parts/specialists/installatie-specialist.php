@@ -15,7 +15,7 @@
 <li>   Schoonmaken en opruimen van de werkplek en afvoeren van afval</li>
 </ul>   
 
-<h6>   De taken van een  installatie specialist zijn dan ook : </h6>    
+<h5>   De taken van een  installatie specialist zijn dan ook : </h5>    
 <ul>  
 <li>   De installatie specialist regelt een planning en verzorgd deze ook. </li>
 <li>   De installatie specialist zorgt voor de materialen ( tenzij anders overeen gekomen in overeenkomst ). </li>

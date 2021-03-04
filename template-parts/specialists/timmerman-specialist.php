@@ -19,7 +19,7 @@ De werkzaamheden van timmermannen zijn vaak de volgende:</p>
 <li>  Verrichten van onderhoudswerkzaamheden aan panden, zoals verhelpen van lekkage en aanbrengen van waterslagen</li>
 </ul>
 
-    <h6>De taken van een timmerman specialist zijn dan ook : </h6>
+    <h5>De taken van een timmerman specialist zijn dan ook : </h5>
     <ul>
         <li>De timmerman specialist regelt een planning en verzorgd deze ook.</li>
         <li>De timmerman specialist zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ).</li>

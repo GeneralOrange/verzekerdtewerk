@@ -26,7 +26,7 @@ Voor voorzetramen betaal je tussen de € 100,‐ en € 140,‐ per m2. Het exa
 <p>Uiteraard sta je er bij stil dat je via het raam warmte verliest. Via de kozijnen en deuren verlies je echter ook meer warmte dan je zou denken. Is de buitendeur of kozijnen toe aan vervanging dan is het een goed moment om isolerende en dus energiezuinige kozijnen te laten zetten. De mate waarin kozijnen goed isoleren wordt weergegeven met de U-waarde. Hoe lager de U-waarde hoe beter de isolatie. </p>
 
 
-<h6>   De taken van een  isolatie specialist zijn dan ook : </h6>     
+<h5>   De taken van een  isolatie specialist zijn dan ook : </h5>     
 <ul>   
 
 <li>   De  isolatie specialist regelt een planning en verzorgd deze ook. </li >

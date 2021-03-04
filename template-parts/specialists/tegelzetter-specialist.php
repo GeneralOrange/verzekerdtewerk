@@ -24,7 +24,7 @@ De taken van tegelzetters zien er meestal als volgt uit:
 </ul>
 
 
-    <h6>De taken van een tegelzetter specialist zijn dan ook : </h6>
+    <h5>De taken van een tegelzetter specialist zijn dan ook : </h5>
     <ul>
         <li>De tegelzetter specialist regelt een planning en verzorgd deze ook.</li>
         <li>De tegelzetter specialist zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ).</li>

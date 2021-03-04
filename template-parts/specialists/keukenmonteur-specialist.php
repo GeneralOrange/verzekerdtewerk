@@ -10,7 +10,7 @@
 <p>   Reparaties: Heb je niet genoeg kennis of gewoon geen tijd om de kastjes in de keuken te repareren? Ook dan kan je de keukeninstallateur inschakelen. Hou er dan wel rekening mee dat een keukenmonteur voor kleinere klusjes vaak een minimumbedrag rekent. Combineer dan eventueel meerdere klussen. </p>     
 
 
-<h6>   De taken van een keukenmonteur specialist zijn dan ook : </h6>     
+<h5>   De taken van een keukenmonteur specialist zijn dan ook : </h5>     
 <ul>   
 
 <li>   De  keukenmonteur specialist regelt een planning en verzorgd deze ook. </li >

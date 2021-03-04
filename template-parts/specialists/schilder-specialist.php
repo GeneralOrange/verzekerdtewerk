@@ -23,7 +23,7 @@
 </ul>       
 
 
-<h6>           De taken van een schilder specialist zijn dan ook : </h6>    
+<h5>           De taken van een schilder specialist zijn dan ook : </h5>    
 <ul>                
 <li>    De schilder specialist regelt een planning en verzorgd deze ook. </li>
 <li>    De schilder specialist zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ). </li>

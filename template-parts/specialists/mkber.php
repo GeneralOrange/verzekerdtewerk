@@ -6,7 +6,7 @@
 <p>       Een Mkb’er is een onderneming die de verantwoordelijkheid op zich neemt om bouwactiviteiten te realiseren en te coördineren; de Mkb’er verzorgt, voor een in het contract bepaalde prijs en binnen een overeengekomen termijn, de levering van een volledig voltooid bouwwerk. De opdrachtgever of bouwheer kan op zijn beurt een architect of architectenbureau inschakelen, die het ontwerp en soms het toezicht op de bouwplaats voor zijn rekening neemt. Het ontwerp van de architect (of anderszins) resulteert vaak in een bestek en tekeningen waarin de beschrijving van het werk is opgenomen en hetgeen een onderlegger vormt voor en onderdeel is van de overeenkomst tussen opdrachtgever en Mkb’er. Het bestek en de tekeningen beschrijven zo nauwkeurig mogelijk wat de kwaliteits- en kwantiteitseisen zijn die de opdrachtgever aan het werk stelt. </p>           
 
 
-<h6>       De taken van een  Mkb’er zijn dan ook : </h6>         
+<h5>       De taken van een  Mkb’er zijn dan ook : </h5>         
 <ul>           
 <li>    De  Mkb’er regelt een planning en verzorgd deze ook. </li>
 <li>    De  Mkb’er  zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ). </li>

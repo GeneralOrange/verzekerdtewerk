@@ -110,7 +110,10 @@
 <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE2';ftypes[2]='dropdown';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='PHONE';ftypes[4]='number';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
+
+
 <script type='text/javascript' src='./js/app.js'></script>
+
 
 </body>
 </html>

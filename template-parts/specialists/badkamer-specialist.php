@@ -3,7 +3,7 @@
     <br>
     <h4>Badkamer specialist</h4>
     <p>Badkamer specialisten staan in voor de volledige badkamerrenovatie. Van de opmaak van een gedetailleerd plan tot het afstoffen van de meubels bij de oplevering. Badkamer specialisten kunnen zowel leidingen leggen, tegelwerk uitvoeren het bad en of douche plaatsen en niet te vergeten het meubel! Uiteraard kunnen zij ook de sloopwerkzaamheden uitvoeren. Badkamer specialisten nemen de volledige opdracht in armen, zij coördineren alle stappen die gezet moeten worden van A tot Z.</p>
-    <h6>De taken van een badkamer specialist zijn dan ook :</h6>
+    <h5>De taken van een badkamer specialist zijn dan ook :</h5>
     <ul>
         <li>De badkamer specialist regelt een planning en verzorgd deze ook.</li>
         <li>De badkamer specialist zorgt voor de bouwmaterialen ( tenzij anders overeen gekomen in overeenkomst ).</li>

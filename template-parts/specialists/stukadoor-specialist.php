@@ -27,7 +27,7 @@ Tot de voornaamste werkzaamheden van de stukadoor behoren de volgende zaken:
 <li>Reparen van oude stuklagen
 </li>
     </ul>
-    <h6>De taken van een stukadoor specialist zijn dan ook :  </h6>
+    <h5>De taken van een stukadoor specialist zijn dan ook :  </h5>
     <ul>
         <li>De stukadoor specialist regelt een planning en verzorgd deze ook.</li>
         <li>De stukadoor specialist zorgt voor de materialen ( tenzij anders overeen gekomen in overeenkomst ).</li>

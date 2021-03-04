@@ -14,7 +14,7 @@
 
 
 
-<h6>   De taken van een huis automatisering specialist zijn dan ook : </h6>    
+<h5>   De taken van een huis automatisering specialist zijn dan ook : </h5>    
 <ul>  
 <li>   De  huis automatisering specialist regelt een planning en verzorgd deze ook. </li>
 <li>   De huis automatisering specialist zorgt voor de materialen ( tenzij anders overeen gekomen in overeenkomst ). </li>
