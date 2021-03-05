@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "name": "Page",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "categories": {
+      "collection": "category",
+      "via": "pages"
+    },
+    "flexcontent": {
+      "type": "dynamiczone",
+      "components": [
+        "custom.mailchimp-form",
+        "custom.header",
+        "custom.content"
+      ]
+    }
+  }
+}

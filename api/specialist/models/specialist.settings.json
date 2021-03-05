@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "specialists",
+  "info": {
+    "name": "Specialist",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "categories": {
+      "collection": "category",
+      "via": "specialists",
+      "dominant": true
+    },
+    "flexcontent": {
+      "type": "dynamiczone",
+      "components": [
+        "custom.content",
+        "custom.header",
+        "custom.mailchimp-form"
+      ]
+    }
+  }
+}
