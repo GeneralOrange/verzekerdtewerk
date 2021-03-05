@@ -1,0 +1,24 @@
+{
+  "name": "verzekerdtewerk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneralOrange/verzekerdtewerk.git"
+  },
+  "author": "Erik van der Schaaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeneralOrange/verzekerdtewerk/issues"
+  },
+  "homepage": "https://github.com/GeneralOrange/verzekerdtewerk#readme",
+  "dependencies": {
+    "require": "^2.4.20",
+    "serve": "^11.3.2",
+    "serve-handler": "^6.1.3"
+  }
+}
