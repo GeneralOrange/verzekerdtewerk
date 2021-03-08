@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_seo_meta_data",
+  "info": {
+    "name": "Meta Data",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "rich_snippet": {
+      "type": "json"
+    },
+    "meta_fields": {
+      "type": "component",
+      "repeatable": true,
+      "component": "seo.meta-field"
+    }
+  }
+}

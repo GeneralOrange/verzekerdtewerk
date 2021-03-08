@@ -11,8 +11,14 @@
     "draftAndPublish": true
   },
   "attributes": {
+    "meta_data": {
+      "type": "component",
+      "repeatable": false,
+      "component": "seo.meta-data"
+    },
     "name": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "categories": {
       "collection": "category",
@@ -25,6 +31,16 @@
         "custom.header",
         "custom.content"
       ]
+    },
+    "sidebar": {
+      "type": "boolean",
+      "default": true,
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name",
+      "required": true
     }
   }
 }
