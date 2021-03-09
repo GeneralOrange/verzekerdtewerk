@@ -18,6 +18,9 @@
         "custom.header",
         "custom.content"
       ]
+    },
+    "name": {
+      "type": "string"
     }
   }
 }

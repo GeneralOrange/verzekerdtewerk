@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "sidebars",
+  "info": {
+    "name": "Sidebar"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "categories": {
+      "collection": "category"
+    },
+    "cta": {
+      "type": "component",
+      "repeatable": false,
+      "component": "custom.header"
+    }
+  }
+}

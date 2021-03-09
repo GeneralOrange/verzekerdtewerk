@@ -19,9 +19,9 @@
       "collection": "page",
       "dominant": true
     },
-    "specialists": {
-      "via": "categories",
-      "collection": "specialist"
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
     }
   }
 }

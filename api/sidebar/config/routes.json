@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/sidebar",
+      "handler": "sidebar.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/sidebar",
+      "handler": "sidebar.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/sidebar",
+      "handler": "sidebar.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
