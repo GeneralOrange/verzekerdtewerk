@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_seo_meta_fields",
+  "info": {
+    "name": "Meta Field",
+    "icon": "pencil-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

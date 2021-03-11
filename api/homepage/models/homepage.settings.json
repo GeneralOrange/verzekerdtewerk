@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepages",
+  "info": {
+    "name": "Homepage",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Flexcontent": {
+      "type": "dynamiczone",
+      "components": [
+        "custom.mailchimp-form",
+        "custom.header",
+        "custom.content"
+      ]
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}
