@@ -21,6 +21,16 @@
     },
     "name": {
       "type": "string"
+    },
+    "header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "custom.header"
+    },
+    "meta_data": {
+      "type": "component",
+      "repeatable": false,
+      "component": "seo.meta-data"
     }
   }
 }
