@@ -12,6 +12,9 @@
     },
     "content": {
       "type": "richtext"
+    },
+    "pages": {
+      "collection": "page"
     }
   }
 }
