@@ -12,6 +12,16 @@
     },
     "description": {
       "type": "richtext"
+    },
+    "sort": {
+      "type": "enumeration",
+      "enum": [
+        "title",
+        "canonical",
+        "description",
+        "custom"
+      ],
+      "default": "custom"
     }
   }
 }

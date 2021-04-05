@@ -11,7 +11,7 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "Flexcontent": {
+    "flexcontent": {
       "type": "dynamiczone",
       "components": [
         "custom.mailchimp-form",
