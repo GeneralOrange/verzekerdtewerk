@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_custom_menu_items",
+  "info": {
+    "name": "Menu item",
+    "icon": "list-ul"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "page": {
+      "model": "page"
+    },
+    "is_category": {
+      "type": "boolean",
+      "default": false
+    },
+    "category": {
+      "model": "category"
+    }
+  }
+}

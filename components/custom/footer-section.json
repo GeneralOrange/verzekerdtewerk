@@ -15,6 +15,9 @@
     },
     "pages": {
       "collection": "page"
+    },
+    "categories": {
+      "collection": "category"
     }
   }
 }

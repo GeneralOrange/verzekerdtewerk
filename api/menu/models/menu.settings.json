@@ -11,10 +11,12 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "menu_section": {
-      "type": "component",
-      "repeatable": true,
-      "component": "custom.footer-section"
+    "menu_components": {
+      "type": "dynamiczone",
+      "components": [
+        "custom.menu-item",
+        "custom.footer-section"
+      ]
     }
   }
 }
