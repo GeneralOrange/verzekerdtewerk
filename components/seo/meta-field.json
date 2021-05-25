@@ -7,8 +7,15 @@
   },
   "options": {},
   "attributes": {
-    "meta_tag": {
-      "type": "text"
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "title",
+        "description"
+      ]
+    },
+    "content": {
+      "type": "string"
     }
   }
 }
