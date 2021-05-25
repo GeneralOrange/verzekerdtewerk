@@ -7,21 +7,8 @@
   },
   "options": {},
   "attributes": {
-    "name": {
-      "type": "string"
-    },
-    "description": {
-      "type": "richtext"
-    },
-    "sort": {
-      "type": "enumeration",
-      "enum": [
-        "title",
-        "canonical",
-        "description",
-        "custom"
-      ],
-      "default": "custom"
+    "meta_tag": {
+      "type": "text"
     }
   }
 }
