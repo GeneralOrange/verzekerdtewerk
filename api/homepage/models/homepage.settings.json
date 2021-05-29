@@ -16,7 +16,8 @@
       "components": [
         "custom.mailchimp-form",
         "custom.header",
-        "custom.content"
+        "custom.content",
+        "custom.usp"
       ]
     },
     "name": {

@@ -16,15 +16,16 @@
       "required": true
     },
     "categories": {
-      "via": "pages",
-      "collection": "category"
+      "collection": "category",
+      "via": "pages"
     },
     "flexcontent": {
       "type": "dynamiczone",
       "components": [
         "custom.mailchimp-form",
         "custom.header",
-        "custom.content"
+        "custom.content",
+        "custom.usp"
       ]
     },
     "sidebar": {
