@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_custom_cards",
+  "info": {
+    "name": "Cards",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "pages": {
+      "collection": "page"
+    },
+    "categories": {
+      "collection": "category"
+    }
+  }
+}
