@@ -15,8 +15,8 @@
       "type": "string"
     },
     "pages": {
-      "via": "categories",
       "collection": "page",
+      "via": "categories",
       "dominant": true
     },
     "slug": {
@@ -27,6 +27,22 @@
       "type": "component",
       "repeatable": false,
       "component": "seo.meta-data"
+    },
+    "header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "custom.header"
+    },
+    "thumbnail": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
     }
   }
 }

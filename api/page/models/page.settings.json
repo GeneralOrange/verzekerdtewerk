@@ -16,8 +16,8 @@
       "required": true
     },
     "categories": {
-      "collection": "category",
-      "via": "pages"
+      "via": "pages",
+      "collection": "category"
     },
     "flexcontent": {
       "type": "dynamiczone",
