@@ -25,7 +25,8 @@
         "custom.mailchimp-form",
         "custom.header",
         "custom.content",
-        "custom.usp"
+        "custom.usp",
+        "custom.cards"
       ]
     },
     "sidebar": {
