@@ -18,6 +18,16 @@
     },
     "categories": {
       "collection": "category"
+    },
+    "menu_footer_item": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.menu-item"
+    },
+    "social_items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.social"
     }
   }
 }
