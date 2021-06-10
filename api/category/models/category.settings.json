@@ -42,10 +42,14 @@
         "videos"
       ],
       "plugin": "upload",
-      "required": false
+      "required": false,
+      "pluginOptions": {}
     },
     "description": {
       "type": "text"
+    },
+    "intro": {
+      "type": "richtext"
     }
   }
 }
