@@ -2,7 +2,8 @@
   "collectionName": "components_custom_socials",
   "info": {
     "name": "Social",
-    "icon": "mobile-alt"
+    "icon": "mobile-alt",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -13,7 +14,9 @@
         "Instagram",
         "LinkedIn",
         "TikTok",
-        "Snapchat"
+        "Snapchat",
+        "Twitter",
+        "Youtube"
       ]
     },
     "title": {
