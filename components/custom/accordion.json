@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_custom_accordions",
+  "info": {
+    "name": "Accordion",
+    "icon": "assistive-listening-systems"
+  },
+  "options": {},
+  "attributes": {
+    "accordion_items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.accordion-item"
+    }
+  }
+}
