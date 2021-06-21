@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "categories",
+  "collectionName": "jobs",
   "info": {
-    "name": "Category",
+    "name": "Job",
     "description": ""
   },
   "options": {
@@ -12,16 +12,32 @@
   },
   "attributes": {
     "name": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
-    "pages": {
-      "collection": "page",
-      "via": "categories",
-      "dominant": true
+    "categories": {
+      "via": "jobs",
+      "collection": "category"
+    },
+    "flexcontent": {
+      "type": "dynamiczone",
+      "components": [
+        "custom.mailchimp-form",
+        "custom.header",
+        "custom.content",
+        "custom.usp",
+        "custom.cards"
+      ]
+    },
+    "sidebar": {
+      "type": "boolean",
+      "default": true,
+      "required": true
     },
     "slug": {
       "type": "uid",
-      "targetField": "name"
+      "targetField": "name",
+      "required": true
     },
     "meta_data": {
       "type": "component",
@@ -32,6 +48,9 @@
       "type": "component",
       "repeatable": false,
       "component": "custom.header"
+    },
+    "description": {
+      "type": "text"
     },
     "thumbnail": {
       "model": "file",
@@ -45,26 +64,13 @@
       "required": false,
       "pluginOptions": {}
     },
-    "description": {
-      "type": "text"
+    "specialist": {
+      "model": "specialist",
+      "via": "jobs"
     },
-    "intro": {
-      "type": "richtext"
-    },
-    "specialists": {
-      "collection": "specialist",
-      "via": "categories",
-      "dominant": true
-    },
-    "costs": {
-      "via": "categories",
-      "collection": "cost",
-      "dominant": true
-    },
-    "jobs": {
-      "via": "categories",
-      "collection": "job",
-      "dominant": true
+    "cost": {
+      "via": "job",
+      "model": "cost"
     }
   }
 }
