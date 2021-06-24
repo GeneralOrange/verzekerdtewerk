@@ -15,6 +15,12 @@
     },
     "specialists": {
       "collection": "specialist"
+    },
+    "costs": {
+      "collection": "cost"
+    },
+    "jobs": {
+      "collection": "job"
     }
   }
 }
