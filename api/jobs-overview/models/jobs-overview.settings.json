@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "jobs_overviews",
+  "info": {
+    "name": "Jobs Overview"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "custom.header"
+    },
+    "meta_data": {
+      "type": "component",
+      "repeatable": false,
+      "component": "seo.meta-data"
+    },
+    "Intro": {
+      "type": "richtext"
+    }
+  }
+}

@@ -28,6 +28,15 @@
       "type": "component",
       "repeatable": true,
       "component": "custom.social"
+    },
+    "costs": {
+      "collection": "cost"
+    },
+    "jobs": {
+      "collection": "job"
+    },
+    "specialists": {
+      "collection": "specialist"
     }
   }
 }

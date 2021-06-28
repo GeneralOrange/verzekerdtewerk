@@ -26,6 +26,27 @@
     },
     "custom_link": {
       "type": "string"
+    },
+    "is_specialist": {
+      "type": "boolean",
+      "default": false
+    },
+    "specialist": {
+      "model": "specialist"
+    },
+    "is_cost": {
+      "type": "boolean",
+      "default": false
+    },
+    "cost": {
+      "model": "cost"
+    },
+    "is_job": {
+      "type": "boolean",
+      "default": false
+    },
+    "job": {
+      "model": "job"
     }
   }
 }

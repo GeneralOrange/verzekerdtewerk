@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/specialists-overview",
+      "handler": "specialists-overview.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/specialists-overview",
+      "handler": "specialists-overview.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/specialists-overview",
+      "handler": "specialists-overview.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
