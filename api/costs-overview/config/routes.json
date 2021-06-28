@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/costs-overview",
+      "handler": "costs-overview.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/costs-overview",
+      "handler": "costs-overview.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/costs-overview",
+      "handler": "costs-overview.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
