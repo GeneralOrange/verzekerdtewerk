@@ -2,7 +2,8 @@
   "kind": "singleType",
   "collectionName": "sidebars",
   "info": {
-    "name": "Sidebar"
+    "name": "Sidebar",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -10,13 +11,14 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "categories": {
-      "collection": "category"
+    "title": {
+      "type": "string"
     },
-    "cta": {
-      "type": "component",
-      "repeatable": false,
-      "component": "custom.header"
+    "description": {
+      "type": "text"
+    },
+    "actions": {
+      "collection": "action"
     }
   }
 }
