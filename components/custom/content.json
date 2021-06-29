@@ -15,6 +15,9 @@
       "default": 12,
       "max": 12,
       "min": 1
+    },
+    "anchor_title": {
+      "type": "string"
     }
   }
 }
