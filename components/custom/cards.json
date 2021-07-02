@@ -21,6 +21,11 @@
     },
     "jobs": {
       "collection": "job"
+    },
+    "slides_to_show": {
+      "type": "integer",
+      "default": 4,
+      "max": 6
     }
   }
 }
