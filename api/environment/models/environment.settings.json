@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "environments",
+  "info": {
+    "name": "Environment",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "classifications": {
+      "collection": "classification",
+      "via": "environments",
+      "dominant": true
+    },
+    "orders": {
+      "via": "environment",
+      "collection": "order"
+    }
+  }
+}

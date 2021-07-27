@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contractors",
+  "info": {
+    "name": "Contractor",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "orders": {
+      "via": "contractor",
+      "collection": "order"
+    },
+    "classifications": {
+      "collection": "classification",
+      "via": "contractors",
+      "dominant": true
+    },
+    "users_permissions_user": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "contractor"
+    }
+  }
+}

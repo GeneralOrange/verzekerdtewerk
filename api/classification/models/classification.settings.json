@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "classifications",
+  "info": {
+    "name": "Classification"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "tasks": {
+      "via": "classifications",
+      "collection": "task"
+    },
+    "environments": {
+      "via": "classifications",
+      "collection": "environment"
+    },
+    "contractors": {
+      "via": "classifications",
+      "collection": "contractor"
+    }
+  }
+}

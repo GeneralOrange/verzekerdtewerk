@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tasks",
+  "info": {
+    "name": "Task",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "orders": {
+      "via": "task",
+      "collection": "order"
+    },
+    "classifications": {
+      "collection": "classification",
+      "via": "tasks",
+      "dominant": true
+    }
+  }
+}
