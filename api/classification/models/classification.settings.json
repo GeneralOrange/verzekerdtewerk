@@ -25,6 +25,10 @@
     "contractors": {
       "via": "classifications",
       "collection": "contractor"
+    },
+    "divisions": {
+      "via": "classifications",
+      "collection": "division"
     }
   }
 }

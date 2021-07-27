@@ -32,8 +32,8 @@
       "via": "orders"
     },
     "division": {
-      "model": "division",
-      "via": "orders"
+      "via": "orders",
+      "model": "division"
     },
     "client": {
       "via": "orders",
