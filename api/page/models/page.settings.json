@@ -22,11 +22,11 @@
     "flexcontent": {
       "type": "dynamiczone",
       "components": [
-        "custom.mailchimp-form",
         "custom.header",
         "custom.content",
         "custom.usp",
-        "custom.cards"
+        "custom.cards",
+        "custom.form"
       ]
     },
     "sidebar": {
@@ -61,7 +61,8 @@
         "videos"
       ],
       "plugin": "upload",
-      "required": false
+      "required": false,
+      "pluginOptions": {}
     }
   }
 }

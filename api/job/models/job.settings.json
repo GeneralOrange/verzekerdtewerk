@@ -22,11 +22,11 @@
     "flexcontent": {
       "type": "dynamiczone",
       "components": [
-        "custom.mailchimp-form",
         "custom.header",
         "custom.content",
         "custom.usp",
-        "custom.cards"
+        "custom.cards",
+        "custom.form"
       ]
     },
     "sidebar": {
@@ -65,8 +65,8 @@
       "pluginOptions": {}
     },
     "specialist": {
-      "model": "specialist",
-      "via": "jobs"
+      "via": "jobs",
+      "model": "specialist"
     },
     "cost": {
       "via": "job",

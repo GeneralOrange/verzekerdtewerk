@@ -22,11 +22,11 @@
     "flexcontent": {
       "type": "dynamiczone",
       "components": [
-        "custom.mailchimp-form",
         "custom.header",
         "custom.content",
         "custom.usp",
-        "custom.cards"
+        "custom.cards",
+        "custom.form"
       ]
     },
     "sidebar": {
@@ -65,12 +65,12 @@
       "regex": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
     },
     "specialist": {
-      "model": "specialist",
-      "via": "cost"
+      "via": "cost",
+      "model": "specialist"
     },
     "job": {
-      "model": "job",
-      "via": "cost"
+      "via": "cost",
+      "model": "job"
     }
   }
 }
