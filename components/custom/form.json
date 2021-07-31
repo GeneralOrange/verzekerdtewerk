@@ -2,12 +2,16 @@
   "collectionName": "components_custom_forms",
   "info": {
     "name": "form",
-    "icon": "envelope-open"
+    "icon": "envelope-open",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
       "type": "string"
+    },
+    "to_adres": {
+      "type": "email"
     }
   }
 }
