@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/temp-contractors",
+      "handler": "temp-contractor.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/temp-contractors/count",
+      "handler": "temp-contractor.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/temp-contractors/:id",
+      "handler": "temp-contractor.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/temp-contractors",
+      "handler": "temp-contractor.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/temp-contractors/:id",
+      "handler": "temp-contractor.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/temp-contractors/:id",
+      "handler": "temp-contractor.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

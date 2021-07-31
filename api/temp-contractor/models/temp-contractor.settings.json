@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "temp_contractors",
+  "info": {
+    "name": "Temp Contractor",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "company_name": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "specialism": {
+      "type": "string"
+    },
+    "review_amount": {
+      "type": "string"
+    },
+    "rating": {
+      "type": "string"
+    },
+    "kvknr": {
+      "type": "string"
+    }
+  }
+}
