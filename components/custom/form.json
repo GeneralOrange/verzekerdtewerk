@@ -12,6 +12,16 @@
     },
     "to_adres": {
       "type": "email"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "Place_order",
+        "Signup_specialist",
+        "Contact"
+      ],
+      "default": "Contact",
+      "required": false
     }
   }
 }
