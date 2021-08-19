@@ -2,7 +2,8 @@
   "kind": "singleType",
   "collectionName": "costs_overviews",
   "info": {
-    "name": "Costs Overview"
+    "name": "Costs Overview",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -20,7 +21,7 @@
       "repeatable": false,
       "component": "seo.meta-data"
     },
-    "Intro": {
+    "intro": {
       "type": "richtext"
     }
   }

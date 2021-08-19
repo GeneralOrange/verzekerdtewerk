@@ -20,7 +20,7 @@
       "repeatable": false,
       "component": "seo.meta-data"
     },
-    "Intro": {
+    "intro": {
       "type": "richtext"
     }
   }
